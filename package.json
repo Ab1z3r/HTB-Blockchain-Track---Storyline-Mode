@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "bignumber.js": "^9.1.2",
+    "ethereum-input-data-decoder": "^0.4.2",
+    "ethereumjs-util": "^7.1.5",
+    "hardhat": "^2.22.1",
+    "keccak": "^3.0.4",
+    "rlp": "^3.0.0",
+    "web3": "^4.7.0"
+  }
+}

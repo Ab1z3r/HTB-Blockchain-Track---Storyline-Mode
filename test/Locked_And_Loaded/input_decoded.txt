@@ -1,0 +1,27 @@
+Items:
+
+1) Item 1:
+name - "PumkinFace"
+owner - "perfectlyremnant" : password - "75kP#=abpPCGhIRiP#w8I3:YGq3.6aJ5utT=YxuH"
+Rarity - 2 = "Epic"
+
+2) Item 2:
+name - "RabbitArmor"
+owner - "forestrepeat" : password - ""
+Rarity - 1 = "Rare"
+
+3) Item 3:
+name - "StrangeCarrot"
+owner - "quizincomplete" : password - ""
+Rarity - 1 = "Rare"
+
+4) Item 4:
+name - "BigBoots"
+owner - "mittensshade" : password - ""
+Rarity - 0 = "Common"
+
+
+Item 7 - Mythic
+name - "WizardsScepter"
+owner - "beliefspace"
+Rarity - 3 - "MYTHIC"
