@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# HTB Blockchain track challenges (Following storyline)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project is my solutions to the blockchain challenges on HTB but in web3.js
 
-Try running some of the following tasks:
+To run the test, Replace the RPC url and Private Key in the `hardhat.config.js`
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+Then go to the corresponding test.js and replace SETUP / PLAYER_ADDRESS
+
+Run exploit with: 
+`npx hardhat run test/<Challenge-Folder-Name>/test.js --network htb`
